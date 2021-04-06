@@ -21,7 +21,7 @@ There is one main React component, FileView, that takes the following props:
 
 `fileType` Extension for the File you want to view
 
-    import FileView from 'react-fileview'
+    import FileView from 'file-view-react'
 
     function App() {
       return (

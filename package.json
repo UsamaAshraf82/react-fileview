@@ -1,9 +1,10 @@
 {
-  "name": "react-fileview",
-  "version": "0.0.1",
+  "name": "file-view-react",
+  "version": "0.0.2",
   "description": "React Component for File View",
-  "license": "MIT",
+  "license": "MIT License",
   "main": "dist/index.js",
+  "repository": "https://github.com/UsamaAshraf82/react-fileview",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
