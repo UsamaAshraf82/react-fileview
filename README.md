@@ -1,4 +1,4 @@
-# React File View
+# File View React
 
 React Component for File View
 
