@@ -4,7 +4,17 @@
   "description": "React Component for File View",
   "license": "MIT License",
   "main": "dist/index.js",
-  "repository": "https://github.com/UsamaAshraf82/react-fileview",
+  "author": {
+    "name": "Muhammad Usama Ashraf",
+    "email": "usamaashraf82@live.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UsamaAshraf82/react-fileview"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "engines": {
     "node": ">=12",
     "npm": ">=6"
